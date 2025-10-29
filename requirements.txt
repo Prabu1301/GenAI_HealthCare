@@ -1,4 +1,5 @@
 altair==5.5.0
+anthropic==Version: 0.71.0
 annotated-doc==0.0.3
 annotated-types==0.7.0
 anyio==4.11.0
