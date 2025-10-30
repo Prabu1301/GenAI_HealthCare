@@ -1,5 +1,4 @@
 altair==5.5.0
-anthropic==Version: 0.71.0
 annotated-doc==0.0.3
 annotated-types==0.7.0
 anyio==4.11.0
@@ -48,3 +47,4 @@ tzdata==2025.2
 urllib3==2.5.0
 uvicorn==0.38.0
 watchdog==6.0.0
+anthropic==0.71.0
